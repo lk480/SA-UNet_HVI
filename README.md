@@ -55,10 +55,6 @@ Read the documentation [Keras.io](http://keras.io/)
 Keras is compatible with: Python 2.7-3.5.
 
 
-
-# If you are inspired by our work, please cite these papers.
-
-
 #### Structured dropout convolutional block
 @INPROCEEDINGS{8942005,  <br>
 author={C. {Guo} and M. {Szemenyei} and Y. {Pei} and Y. {Yi} and W. {Zhou}}, <br> 
